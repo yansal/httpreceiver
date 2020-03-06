@@ -1,0 +1,4 @@
+github.com/lib/pq v1.3.0 h1:/qkRGz8zljWiDcFvgpwUpwIAPu3r07TDvs3Rws+o/pU=
+github.com/lib/pq v1.3.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
+github.com/yansal/sql v0.3.0 h1:j5ETfAJ/aocR7zAcPFwT5eBwqb0et/wuftObFGbsimI=
+github.com/yansal/sql v0.3.0/go.mod h1:g/jJ3YeTODbQj3rbuxzE4z5tzn3vcQyv577H+aDw7wA=
